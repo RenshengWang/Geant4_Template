@@ -1,0 +1,4 @@
+This template is modified from the example B2a of Geant4.10.02.p01. 
+1, This program build a semi-conductor telescope, the deposited energy of silicon and CsI is recorded.
+2, The recorded data is stored in the root file.
+3, Except the original files of example-B2a, two classes : Config, Gun_Dir are added. The Config is used to organized the parameters; the Gun_Dir is used to produce direction for the particle gun.
